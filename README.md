@@ -30,6 +30,23 @@ Template Functions:
 * `bg.Cyan` - cyan background
 * `bg.White` - white background
 
+* `fg.HiBlack` - foreground high intensity black text
+* `fg.HiRed` - foreground high intensity red text
+* `fg.HiGreen` - foreground high intensity green text
+* `fg.HiYellow` - foreground high intensity yellow text
+* `fg.HiBlue` - foreground high intensity blue text
+* `fg.HiMagenta` - foreground high intensity magenta text
+* `fg.HiCyan` - foreground high intensity cyan text
+* `fg.HiWhite` - foreground high intensity white text
+* `bg.HiBlack` - high intensity black background
+* `bg.HiRed` - high intensity red background
+* `bg.HiGreen` - high intensity green background
+* `bg.HiYellow` - high intensity yellow background
+* `bg.HiBlue` - high intensity blue background
+* `bg.HiMagenta` - high intensity magenta background
+* `bg.HiCyan` - high intensity cyan background
+* `bg.HiWhite` - high intensity white background
+
 * `bold` - increased intensity for text
 * `dim` - decreased intensity for text
 * `italics` - italicize text
